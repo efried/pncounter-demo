@@ -1,0 +1,14 @@
+{
+  "name": "pncounter-demo",
+  "version": "1.0.0",
+  "description": "Demoing how to use Hazelcast PN-Counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Friedenberg",
+  "license": "ISC",
+  "dependencies": {
+    "hazelcast-client": "^0.9.0"
+  }
+}
